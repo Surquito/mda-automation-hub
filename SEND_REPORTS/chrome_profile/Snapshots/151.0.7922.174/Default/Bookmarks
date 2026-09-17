@@ -1,0 +1,47 @@
+{
+   "checksum": "64c1f720696d57f366ce0a23ddcf3df7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13432315769145244",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13432315799361630",
+            "date_last_used": "0",
+            "guid": "e0b3fe82-a48f-4af5-88a4-df63f77f27e1",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Microsoft Fabric - MDA",
+            "type": "url",
+            "url": "https://app.powerbi.com/groups/214d3eb4-a116-4ebf-a233-a9ff58f47ba0/reports/b6b06332-c9a4-4f82-b7c4-fa7252838ffd/1d3763661cd912f949b5?experience=power-bi"
+         } ],
+         "date_added": "13432315769145244",
+         "date_last_used": "0",
+         "date_modified": "13432315799361630",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13432315769145244",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Marcadores de móvil",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

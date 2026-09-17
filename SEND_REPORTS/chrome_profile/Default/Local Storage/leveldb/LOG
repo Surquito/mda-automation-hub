@@ -1,0 +1,9 @@
+2026/09/17-09:31:50.095 15e90 Reusing MANIFEST C:\Automatizaciones\MDA\SEND_REPORTS\chrome_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/17-09:31:50.101 15e90 Recovering log #509
+2026/09/17-09:31:50.107 15e90 Reusing old log C:\Automatizaciones\MDA\SEND_REPORTS\chrome_profile\Default\Local Storage\leveldb/000509.log 
+2026/09/17-09:32:50.173 cd38 Level-0 table #513: started
+2026/09/17-09:32:50.202 cd38 Level-0 table #513: 37785 bytes OK
+2026/09/17-09:32:50.208 cd38 Delete type=0 #509
+2026/09/17-09:33:50.912 cd38 Level-0 table #515: started
+2026/09/17-09:33:50.923 cd38 Level-0 table #515: 82652 bytes OK
+2026/09/17-09:33:50.925 cd38 Delete type=0 #512

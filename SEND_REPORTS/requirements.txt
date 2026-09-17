@@ -1,0 +1,5 @@
+python-dotenv
+selenium
+pillow
+pywin32
+schedule

@@ -1,0 +1,8 @@
+2026/09/17-09:31:50.247 15e90 Creating DB C:\Automatizaciones\MDA\SEND_REPORTS\chrome_profile\Default\Session Storage since it was missing.
+2026/09/17-09:31:50.293 15e90 Reusing MANIFEST C:\Automatizaciones\MDA\SEND_REPORTS\chrome_profile\Default\Session Storage/MANIFEST-000001
+2026/09/17-09:32:50.910 15e90 Level-0 table #5: started
+2026/09/17-09:32:50.937 15e90 Level-0 table #5: 186887 bytes OK
+2026/09/17-09:32:50.945 15e90 Delete type=0 #3
+2026/09/17-09:33:50.907 1a324 Level-0 table #7: started
+2026/09/17-09:33:50.920 1a324 Level-0 table #7: 38573 bytes OK
+2026/09/17-09:33:50.922 1a324 Delete type=0 #4

@@ -1,0 +1,18 @@
+2026/09/17-09:05:29.704 177d0 Reusing MANIFEST C:\Automatizaciones\MDA\SEND_REPORTS\chrome_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/17-09:05:29.710 177d0 Recovering log #503
+2026/09/17-09:05:29.724 177d0 Reusing old log C:\Automatizaciones\MDA\SEND_REPORTS\chrome_profile\Default\Local Storage\leveldb/000503.log 
+2026/09/17-09:06:29.802 147c4 Level-0 table #507: started
+2026/09/17-09:06:29.809 147c4 Level-0 table #507: 36853 bytes OK
+2026/09/17-09:06:29.810 147c4 Delete type=0 #503
+2026/09/17-09:06:29.811 147c4 Compacting 4@0 + 1@1 files
+2026/09/17-09:06:29.838 147c4 Generated table #508@0: 493 keys, 108056 bytes
+2026/09/17-09:06:29.839 147c4 Compacted 4@0 + 1@1 files => 108056 bytes
+2026/09/17-09:06:29.839 147c4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/17-09:06:29.840 147c4 Delete type=2 #497
+2026/09/17-09:06:29.840 147c4 Delete type=2 #499
+2026/09/17-09:06:29.840 147c4 Delete type=2 #502
+2026/09/17-09:06:29.840 147c4 Delete type=2 #504
+2026/09/17-09:06:29.840 147c4 Delete type=2 #507
+2026/09/17-09:07:30.494 168ac Level-0 table #510: started
+2026/09/17-09:07:30.502 168ac Level-0 table #510: 82519 bytes OK
+2026/09/17-09:07:30.503 168ac Delete type=0 #506

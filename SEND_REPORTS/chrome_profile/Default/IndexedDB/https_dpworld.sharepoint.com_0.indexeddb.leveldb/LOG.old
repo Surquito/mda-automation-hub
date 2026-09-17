@@ -1,0 +1,23 @@
+2026/09/17-09:05:30.046 17788 Reusing MANIFEST C:\Automatizaciones\MDA\SEND_REPORTS\chrome_profile\Default\IndexedDB\https_dpworld.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/17-09:05:30.047 17788 Recovering log #1071
+2026/09/17-09:05:30.061 17788 Reusing old log C:\Automatizaciones\MDA\SEND_REPORTS\chrome_profile\Default\IndexedDB\https_dpworld.sharepoint.com_0.indexeddb.leveldb/001071.log 
+2026/09/17-09:05:30.129 18c58 Compacting 1@1 + 3@2 files
+2026/09/17-09:05:30.199 18c58 Generated table #1074@1: 8068 keys, 2153688 bytes
+2026/09/17-09:05:30.209 18c58 Generated table #1075@1: 666 keys, 1034506 bytes
+2026/09/17-09:05:30.209 18c58 Compacted 1@1 + 3@2 files => 3188194 bytes
+2026/09/17-09:05:30.210 18c58 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/09/17-09:05:30.210 18c58 Delete type=2 #1059
+2026/09/17-09:05:30.210 18c58 Delete type=2 #1069
+2026/09/17-09:05:30.210 18c58 Delete type=2 #1070
+2026/09/17-09:05:30.210 18c58 Delete type=2 #1072
+2026/09/17-09:05:30.743 13754 Level-0 table #1077: started
+2026/09/17-09:05:30.761 13754 Level-0 table #1077: 1712208 bytes OK
+2026/09/17-09:05:30.762 13754 Delete type=0 #1071
+2026/09/17-09:05:30.766 13754 Compacting 1@1 + 1@2 files
+2026/09/17-09:05:30.839 13754 Generated table #1078@1: 8105 keys, 2152540 bytes
+2026/09/17-09:05:30.850 13754 Generated table #1079@1: 1779 keys, 856860 bytes
+2026/09/17-09:05:30.850 13754 Compacted 1@1 + 1@2 files => 3009400 bytes
+2026/09/17-09:05:30.851 13754 compacted to: files[ 0 0 3 0 0 0 0 ]
+2026/09/17-09:05:30.851 13754 Delete type=2 #1074
+2026/09/17-09:05:30.851 13754 Delete type=2 #1077
+2026/09/17-09:05:40.111 13fe0 Manual compaction at level-0 from '\x00o\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00p\x00\x00\x00' @ 0 : 0; will stop at (end)
