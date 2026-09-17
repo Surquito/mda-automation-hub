@@ -389,8 +389,7 @@ Stakeholders
 
 ## Autor
 
-**Gerson Surco**  
-Analista de Aplicaciones
+**Gerson Ronaldo Surco Alata**  - www.linkedin.com/in/gerson-ronaldo-surco-alata-53b42026a
 
 ---
 
